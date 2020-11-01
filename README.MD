@@ -18,4 +18,4 @@ admin - admin (администратор); The_Creator - Creator123 (персо
 
 Опросы с вопросами создаются админом/персоналом через панель администрирования.
 
-Ссылка на Heroku: 
+Ссылка на Heroku: https://vast-thicket-63611.herokuapp.com/
